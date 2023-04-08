@@ -14,10 +14,11 @@ I decided to make a Fiber Record Keeping as this a solution that my current job 
 ### Default route
 ![image](https://user-images.githubusercontent.com/122843130/230727937-f6fb6f47-f2e2-4dc4-a299-6100491ce218.png)
 
-### fiberId route
+### fiberID route
 ![image](https://user-images.githubusercontent.com/122843130/230728450-0909c5f2-f0ed-4939-803d-00a8ae7616e5.png)
 
-### fiberId create
+### fiberID create
+![image](https://user-images.githubusercontent.com/122843130/230729168-64d7a27e-1caf-4e73-bdf3-021f6f09c67a.png)
 
 
 ### END
