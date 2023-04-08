@@ -21,16 +21,6 @@ I decided to make a Fiber Record Keeping as this a solution that my current job 
 ![image](https://user-images.githubusercontent.com/122843130/230729168-64d7a27e-1caf-4e73-bdf3-021f6f09c67a.png)
 
 
-### END
-
-![image](https://user-images.githubusercontent.com/122843130/221381719-aaa9e082-127c-42c8-a785-5ce9255289b4.png)
---or--or--or--or--or--or--or--or--or--or--or--or--or--or--or--or--
---or--or--or--or--or--or--or--or--or--or--or--or--or--or--or--or--
---or--or--or--or--or--or--or--or--or--or--or--or--or--or--or--or--
---or--or--or--or--or--or--or--or--or--or--or--or--or--or--or--or--
-![image](https://user-images.githubusercontent.com/122843130/221381792-609211dc-a2cc-4c11-9f21-263b33deff1e.png)
-
-
 
 
 
@@ -38,21 +28,16 @@ I decided to make a Fiber Record Keeping as this a solution that my current job 
 
 ### MVP GOALS
 
-1. As a Player, I should be able to choose any card to flip.
-2. As a Player, the game should only flip my card back once I choose another one.
-3. As a Player, if I choose another card and they do not match, then both cards should flip back.
-4. As a Player, if the cards I choose match the previous card, then the cards should remain as is.
-5. As a Player, I should be able to choose a new card now.
-6. As a Player, Once all the cards are found, the game should display "YOU WON."
-7. As a Player, I should have a way to reset the game.
-8. As a Player, I only have 16 tries to win the game.
+
+1. As a User, I be able to see the home page. 
+2. As a User, I should be able to get to the FiberID route.
+3. As a User, I should be able to get to the create my own object
+4. As a User, I should be able to get back to the home, fiberID, create fiberID from the urls on the top of the webpage
+
 
 
 
 ## Stretch Goals
-1. Have a time limit on the game
-2. To able to add animation/sound if the cards are incorrect
-3. To give a score based on time and amount of "clicks done."
-4. Do a flip animation rather than a toggle one. 
-5.  Size of the board( 6X6, 8X8, etc...)
-6. Change the message depending of how many tries they have left. 
+1. Have log in
+2. to store images via web and pulling them down automatically
+
